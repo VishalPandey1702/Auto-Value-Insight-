@@ -82,3 +82,5 @@ This project is a web-based application that allows users to submit car details 
   "predicted_price": 450000,
   "message": "Data received and processed successfully!"
 }
+
+
