@@ -83,4 +83,5 @@ This project is a web-based application that allows users to submit car details 
   "message": "Data received and processed successfully!"
 }
 
+![Submit Car Details](../src/app.png)
 
